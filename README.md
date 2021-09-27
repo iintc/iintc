@@ -8,6 +8,6 @@
   <a href="https://learninpublic.org/?from=GH%20README">LinkedIn</a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=iintc">
+    <img src="https://komarev.com/ghpvc/?username=iintc&style=flat-square&color=358DEC">
