@@ -5,5 +5,6 @@
 <p align="left">
   <a href="https://t.me/iintc1">Telegram</a> •
   <a href="https://twitter.com/intent/follow?screen_name=VincentLuke19&tw_p=followbutton">Twitter</a> •
-  <a href="https://learninpublic.org/?from=GH%20README">LinkedIn</a>
+  <a href="https://github.com/iintc">Github</a> •
+  <a href="https://discord.gg/R8FhKPxskd">Discord</a>
 </p>
