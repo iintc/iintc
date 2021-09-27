@@ -4,7 +4,7 @@
 ## Contact me here!
 <p align="left">
 <a href="https://t.me/iintc1" target="_blank"> 
-  <img alt="Telegram" src=""/>
+  <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue"/>
   
 <p align="left">  
 <a href="https://www.linkedin.com/in/MichaelHAsker" target="_blank"> 
