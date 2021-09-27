@@ -2,7 +2,7 @@
 
 
 ## Feel free to contact me here!
-<p align="center">
+<p align="left">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://t.me/iintc">Telegram</a> •
   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
