@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Hey+there!;Hello!;What's+up.;Greetings!;Howdy!;G'day.;Hi.;Morning!)](https://git.io/typing-svg)
 ### I'm iintc, also referred as Luke. I'm a 15 years old software developer.
-#### Programming languages I use:
+#### Languages I use:
 <p align="centre">
 <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?logo=python&logoColor=white"> 
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
