@@ -2,6 +2,7 @@
 
 My name is `Vincent Luke` and I've been working in the Information Technology fields for 8 months. Over the time I had possesed multiple skills in the industry and I'm happy to say I'm quite decent.
 
+<hr />
 
 <h3>Languages & Tools</h3>
 
@@ -29,5 +30,10 @@ My name is `Vincent Luke` and I've been working in the Information Technology fi
 </a>
 </p>
 
+<hr />
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=iintc&count_private=true&show_icons=true&title_color=ffffff&icon_color=89cff0&text_color=ffffff&bg_color=000000">
+</a>
+<hr />
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
