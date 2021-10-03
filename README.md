@@ -6,6 +6,7 @@ My name is `Vincent Luke` and I've been working in the Information Technology fi
 
 <h3>Languages & Tools</h3>
 
+I am currently learning:
 <p align="left">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </a>
@@ -21,6 +22,7 @@ My name is `Vincent Luke` and I've been working in the Information Technology fi
 </a>
 </p>
 
+These are the tools I use:
 <p align="left">
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white">
 </a>
