@@ -22,7 +22,7 @@ I am currently learning:
 </a>
 </p>
 
-These are the tools I use:
+Tools I use:
 <p align="left">
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white">
 </a>
@@ -34,8 +34,14 @@ These are the tools I use:
 
 <hr />
 
+<h3>If you want to have a talk with me then check these links down below.</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=iintc&count_private=true&show_icons=true&title_color=ffffff&icon_color=89cff0&text_color=ffffff&bg_color=000000">
-</a>
-<hr />
+  <a href="https://t.me/iintc1">Telegram</a> •
+  <a href="https://twitter.com/VincentLuke19">Twitter</a> •
+  <a href="https://discord.gg/R8FhKPxskd">Discord</a>
+</p>
+
+<br />
+<br />
+
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
