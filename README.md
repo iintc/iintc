@@ -1,6 +1,6 @@
 <h2>Welcome!</h2>
 
-My name is `Vincent Luke` and I've been working in the Information Technology fields for 8 months!
+Hey there, the name is `Vincent Luke`, I'm 15 and I'm currently working for NASA (real), anyway, I'm learning cyber-security and programming, that's pretty much it about me. Oh and I usually hop on Discord and talk with my friends on my free time... I use Arch btw.
 
 <hr />
 
@@ -24,7 +24,7 @@ Tools I use:
 <p align="left">
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white">
 </a>
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime Text-FF9800.svg?logo=SublimeText&logoColor=white">
+    <img alt="Sublime Text" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white">
 </a>
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack Overflow-F58825.svg?logo=stack-overflow&logoColor=white">
 </a>
