@@ -1,12 +1,15 @@
-<h2>Welcome!</h2>
+## Hey There 👋 
+### I'm Vincent Luke, 15 years old.
 
-Hey there, the name is `Vincent Luke`, I'm 15 and I'm currently working for NASA (real), anyway, I'm learning cyber-security and programming, that's pretty much it about me. Oh and I usually hop on Discord and talk with my friends on my free time... I use Arch btw.
+I've been learning in the Information Technology fields around 3 months as of now, I like to challenge myself to pick up and try to learn something new to see if it interests me. I also enjoy going to forums and write articles about video games, aswell as my daily life. I'm looking foward to make the most out of my life and get a good paying job so I went the IT path!
+
 
 <hr />
 
-<h3>Languages & Tools</h3>
 
-I am currently learning:
+<h3>My Skills. 🛠️</h3>
+
+Programming languages.
 <p align="left">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </a>
@@ -20,7 +23,7 @@ I am currently learning:
 </a>
 </p>
 
-Tools I use:
+Software & Tools.
 <p align="left">
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white">
 </a>
@@ -30,9 +33,11 @@ Tools I use:
 </a>
 </p>
 
+
+
 <hr />
 
-<h3>If you want to have a talk with me then check these links down below.</h3>
+<h3>Connect with me.</h3>
 <p align="left">
   <a href="https://t.me/iintc1">Telegram</a> •
   <a href="https://twitter.com/VincentLuke19">Twitter</a> •
@@ -43,4 +48,4 @@ Tools I use:
 <br />
 <br />
 
-<!-- please don't steal it -->
+<!-- Credits to Nos -->
