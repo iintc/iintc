@@ -43,4 +43,4 @@ Tools I use:
 <br />
 <br />
 
-<!-- holy shit fuck off -->
+<!-- please don't steal it -->
