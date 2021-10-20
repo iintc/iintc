@@ -1,8 +1,7 @@
 ## Hey There 👋 
 ### I'm Vincent Luke, 15 years old.
 
-I've been learning in the Information Technology fields around 3 months as of now, I like to challenge myself to pick up and try to learn something new to see if it interests me. I also enjoy going to forums and write articles about video games, aswell as my daily life. I'm looking foward to make the most out of my life and get a good paying job so I went the IT path!
-
+I've been learning in the Information Technology fields around 3 months as of now, I like to challenge myself to pick up and try to learn something new to see if it interests me. I also enjoy going to forums and write articles about technology! I find myself passionate when it comes to Cyber Security and Networking, I love to code aswell. I'm currently looking foward to achieve my dream and one day become an IT professional.
 
 <hr />
 
