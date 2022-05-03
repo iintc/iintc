@@ -1,5 +1,5 @@
 ## Hey There 👋 
-### I'm Vincent Luke, 15 years old.
+### I'm luke, a dumbass
 
 what the fuck is this
 
