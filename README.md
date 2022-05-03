@@ -1,14 +1,14 @@
 ## Hey There 👋 
 ### I'm Vincent Luke, 15 years old.
 
-I've been learning in the Information Technology fields around 3 months as of now, I like to challenge myself to pick up and try to learn something new to see if it interests me. I also enjoy going to forums and write articles about technology! I find myself passionate when it comes to Cyber Security and Networking, I love to code aswell. I'm currently looking foward to achieve my dream and one day become an IT professional.
+what the fuck is this
 
 <hr />
 
 
-<h3>My Skills. 🛠️</h3>
+<h3>why are you looking</h3>
 
-Programming languages.
+programming languages:
 <p align="left">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </a>
@@ -22,7 +22,7 @@ Programming languages.
 </a>
 </p>
 
-Software & Tools.
+tools: (your mother figure)
 <p align="left">
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white">
 </a>
@@ -36,7 +36,7 @@ Software & Tools.
 
 <hr />
 
-<h3>Connect with me.</h3>
+<h3>hmu bbg</h3>
 <p align="left">
   <a href="https://t.me/iintc1">Telegram</a> •
   <a href="https://twitter.com/VincentLuke19">Twitter</a> •
