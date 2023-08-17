@@ -1,12 +1,10 @@
-## Hey There 👋 
-### I'm luke, a dumbass
-
-what the fuck is this
+## hello, 👋 
+### I go by Luke, and by all means this is my alias online
 
 <hr />
 
 
-<h3>why are you looking</h3>
+<h3>uncertain what to put here</h3>
 
 programming languages:
 <p align="left">
