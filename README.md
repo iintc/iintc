@@ -4,7 +4,7 @@
 <hr />
 
 
-<h3>uncertain what to put here</h3>
+<h3>my tech stack</h3>
 
 programming languages:
 <p align="left">
