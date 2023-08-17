@@ -34,7 +34,7 @@ tools:
 
 <hr />
 
-<h3>hmu bbg</h3>
+<h3>hmu anytime</h3>
 <p align="left">
   <a href="https://t.me/iintc1">Telegram</a> •
   <a href="https://twitter.com/VincentLuke19">Twitter</a> •
