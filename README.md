@@ -20,7 +20,7 @@ programming languages:
 </a>
 </p>
 
-tools: (your mother figure)
+tools:
 <p align="left">
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white">
 </a>
