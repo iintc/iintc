@@ -1,5 +1,5 @@
 ## hello, 👋 
-### I go by Luke, and by all means this is my alias online
+### I'm known as Luke online
 
 <hr />
 
