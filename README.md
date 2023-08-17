@@ -7,6 +7,7 @@
 <h3>my tech stack</h3>
 
 programming languages:
+(I'm not a master at all of them but I certainly know how to use them great)
 <p align="left">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </a>
