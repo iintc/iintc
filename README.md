@@ -24,14 +24,6 @@ tools:
 
 <hr />
 
-<h3>hmu anytime</h3>
-<p align="left">
-  <a href="https://t.me/iintc1">Telegram</a> •
-  <a href="https://twitter.com/VincentLuke19">Twitter</a> •
-  <a href="https://discord.gg/R8FhKPxskd">Discord</a> •
-  @iintc:matrix.org
-</p>
-
 <br />
 <br />
 
