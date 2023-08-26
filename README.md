@@ -23,8 +23,3 @@ tools:
 
 
 <hr />
-
-<br />
-<br />
-
-<!-- Credits to Nos -->
